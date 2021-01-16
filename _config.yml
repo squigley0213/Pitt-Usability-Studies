@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Usability Studies Blog
+title: Pitt Usability Studies Blog
 email: sjq4@pitt.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Here we go! Welcome to our Pitt Usability Studies Course Blog. We'll use this site to discover, build, and test our knowledge!   
