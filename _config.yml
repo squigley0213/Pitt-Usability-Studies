@@ -21,9 +21,7 @@
 title: Usability Studies Blog
 email: sjq4@pitt.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Here we go! Welcome to our Pitt Usability Studies Course Blog. We'll use this site to discover, build, and test our knowledge!   
 baseurl: "/Pitt-Usability-Studies" # the subpath of your site, e.g. /blog
 url: "https://sjquigley.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
