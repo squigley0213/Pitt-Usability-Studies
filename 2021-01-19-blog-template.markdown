@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Template...Add your title!"
+title:  "Seamus Test!"
 date:   2021-01-05 22:31:05 -0500
 categories: add keywords
 ---
-#Blog Title
+#Seamus Test
 
 Keep this writing short and snappy! And don't be afraid to play--blogs should informative, but also fun and entertaining. Be sure to add a visual or two. You can learn more in markdown docs. 
 
